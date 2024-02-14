@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Jale3.props" />
+</Project>
